@@ -1,0 +1,23 @@
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css);
+
+:root {
+	--accent-hue: 98;
+	--accent-saturation: 57%;
+	--accent-lightness: 64%;
+	--accent-text-color: #fff;
+	--accent-button-action: #fff; /*	-	*/
+
+	--avatar-radius: 50%; /*	-	*/
+
+	--message-radius: 19px;
+	--message-padding-top: 8px;
+	--message-padding-side: 12px; /*	-	*/
+
+	--media-radius: 19px; /*	-	*/
+
+	--card-radius: 8px;
+	--card-radius-big: 18px; /*	-	*/
+
+	--popout-radius: 8px;
+	--popout-radius-big: 18px;
+}
